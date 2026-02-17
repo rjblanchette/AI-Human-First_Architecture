@@ -1,22 +1,21 @@
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright (c) 2026 [Your Name]
+Copyright (c) 2026 Robert J. Blanchette
 
-This work is licensed under the Creative Commons Attribution 4.0 International License.
+This repository and its contents are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+- Adapt — remix, transform, and build upon the material for any purpose, including commercial use
 
 Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- Attribution — Appropriate credit must be given, a link to the license provided, and any changes clearly indicated.
+  Attribution must not suggest endorsement by the author.
 
 No additional restrictions:
-You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+You may not apply legal terms or technological measures that restrict others from exercising the rights granted by this license.
 
 Full license text:
 https://creativecommons.org/licenses/by/4.0/
 
-This repository contains intellectual work including but not limited to:
-- publications
+Unless explicitly stated otherwise within an individual document, all materials in this repository are covered by this license.

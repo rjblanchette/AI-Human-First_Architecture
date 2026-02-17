@@ -1,4 +1,4 @@
-**Leadership Brief**  
+#  **Leadership Brief**
 **Legitimacy, Judgment, and Human–AI Role Separation (CSF-2 Aligned)**
  
 **I. Purpose of Leadership**  
@@ -276,5 +276,3 @@ No governance is enacted.
 No system is empowered.  
 Where legitimacy holds, leadership is absent.  
 Where legitimacy fails, leadership appears briefly — and disappears as soon as its work is done.  
-**Document complete.**
- \> From \<[https://chatgpt.com/g/g-6952c9fc9cf48191bd30a1a43d663bbe-rocketman/c/69539966-0d8c-8325-8c33-831a31e433e7](https://chatgpt.com/g/g-6952c9fc9cf48191bd30a1a43d663bbe-rocketman/c/69539966-0d8c-8325-8c33-831a31e433e7)\>
