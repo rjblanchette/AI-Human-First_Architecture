@@ -1,4 +1,4 @@
-## Leadership Brief
+#  **Leadership Brief**
 **Legitimacy, Judgment, and Human–AI Role Separation (CSF-2 Aligned)**
  
 **I. Purpose of Leadership**  
