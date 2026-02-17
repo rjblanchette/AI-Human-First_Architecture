@@ -1,43 +1,46 @@
-# AI-Human-First_Architecture
-# Research & Publications Repository
+# Research & Publications
 
-This repository contains authored work including:
+This repository contains authored research, whitepapers, and conceptual work focused on long-horizon structural questions.
+
+It serves as a public, version-controlled archive of intellectual output.
+
+## Scope of Work
+
+Materials may include:
 
 - Research papers
-- Whitepapers
-- Publications
-- Conceptual frameworks
-- Architectural documents
-- Working drafts
+- Policy or strategy whitepapers
+- Conceptual and architectural frameworks
+- Field-defining models
+- Technical notes and structured essays
 
-## Purpose
+Documents may be:
+- formally published
+- pre-publication drafts
+- evolving working papers
 
-The purpose of this repository is to maintain a transparent, version-controlled archive of published and in-progress intellectual work.
+Each document indicates its status where relevant.
 
-Where appropriate, documents may evolve over time. Version history is preserved through Git.
+## Positioning
 
-## Structure
+This repository prioritizes clarity of structure, explicit reasoning, and long-term coherence over volume.
 
-Documents are organized by topic or publication type.
+Work collected here reflects ongoing inquiry into systems, governance, institutional design, and structural constraints.
 
-Some materials may be:
-- finalized and formally published
-- working drafts
-- conceptual explorations
-- preprints
+## Versioning
 
-Each document should clearly indicate its status.
+All documents are maintained under version control.
+
+Where revisions occur, change history is preserved.
 
 ## Licensing
 
-Unless otherwise specified within a specific file, all materials in this repository are licensed under:
+Unless otherwise specified, materials are licensed under:
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-See LICENSE.md for full details.
+See LICENSE.md for details.
 
-## Disclaimer
+## Contact
 
-The contents of this repository represent the views of the author(s) at the time of writing.
-
-Nothing in this repository constitutes legal, financial, or policy advice.
+For collaboration, citation, or discussion, open an issue or reach out directly.
