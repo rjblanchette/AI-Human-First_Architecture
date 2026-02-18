@@ -40,4 +40,4 @@ See LICENSE.md for full details.
 
 The contents of this repository represent the views of the author(s) at the time of writing.
 
-Nothing in this repository constitutes legal, financial, or policy advice.
+Nothing in this repository constitutes legal, financial, or policy advice. This is structural architecture.
