@@ -189,3 +189,12 @@ AI-Human-First Infrastructure ensures that:
 Where this separation holds, AI scaling remains compatible with institutional stability.
 
 Where it does not, authority leaks.
+
+---
+**Copyright**
+
+© 2026 Robert J. Blanchette.  
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+This document is part of the AI-Human-First Architecture repository.  
+Human authorship is primary. AI assistance, where used, does not confer authority or authorship.

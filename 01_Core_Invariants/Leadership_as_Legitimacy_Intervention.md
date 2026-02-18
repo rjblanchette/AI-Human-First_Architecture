@@ -276,3 +276,12 @@ No governance is enacted.
 No system is empowered.  
 Where legitimacy holds, leadership is absent.  
 Where legitimacy fails, leadership appears briefly — and disappears as soon as its work is done.  
+
+---
+**Copyright**
+
+© 2026 Robert J. Blanchette.  
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+This document is part of the AI-Human-First Architecture repository.  
+Human authorship is primary. AI assistance, where used, does not confer authority or authorship.

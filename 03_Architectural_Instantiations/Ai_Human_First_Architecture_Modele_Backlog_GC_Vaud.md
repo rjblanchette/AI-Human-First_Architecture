@@ -274,4 +274,13 @@ Indicateurs agrégés non personnels peuvent être suivis.
 > Le Grand Conseil gouverne non seulement par les décisions qu’il prend, mais par la discipline avec laquelle il alloue le temps.
 > Ce modèle garantit que l’urgence demeure légitime sans devenir dominante, et que l’assistance technique n’altère jamais l’autorité humaine.
 
+---
+
+**Copyright**
+
+© 2026 Robert J. Blanchette.  
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+This document is part of the AI-Human-First Architecture repository.  
+Human authorship is primary. AI assistance, where used, does not confer authority or authorship.
 
